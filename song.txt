@@ -1,6 +1,4 @@
 some content
 new content
 more content!
-
-la-la-la
-la-la-la-la-la
+this line for amend
