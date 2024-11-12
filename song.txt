@@ -2,3 +2,5 @@ some content
 new content
 more content!
 this line for amend
+
+Now we try to use fast-forward commit
