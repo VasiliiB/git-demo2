@@ -3,8 +3,13 @@ new content
 more content!
 this line for amend
 
+main
+
 Now we try to use fast-forward commit
+
+main
 
 another one commit
 
 Now we try to use Non fast-forward commit (19 nov 2024)
+
