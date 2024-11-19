@@ -6,3 +6,5 @@ this line for amend
 Now we try to use fast-forward commit
 
 another one commit
+
+Now we try to use Non fast-forward commit (19 nov 2024)
